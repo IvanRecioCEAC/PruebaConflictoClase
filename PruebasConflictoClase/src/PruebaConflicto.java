@@ -1,4 +1,6 @@
-
 public class PruebaConflicto {
-	String nombre = "Maria";
+	String nombreMaria = "Maria";
+
+	String nombre = "Ivan";
+
 }
