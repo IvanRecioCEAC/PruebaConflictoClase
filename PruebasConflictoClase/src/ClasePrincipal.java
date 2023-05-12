@@ -1,3 +1,3 @@
 public class ClasePrincipal {
-	String nombre = "Ivan";
+	String nombre = "Maria";
 }
